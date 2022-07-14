@@ -1,0 +1,54 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+body {
+    color: red;
+    background-color: lightskyblue;
+    width: 100%;
+    height:100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+#titleName{
+    margin-top: 1cm;
+    color:yellow;
+}
+
+#vegetableSaladImage{
+    width:400px;
+    height:200px;
+    margin-top: 3cm;
+}
+#benefitsParagraph{
+    align-items: center;
+    align-content: center;
+    margin-left: 4cm;
+}
+#benefits{
+    margin-left: 2cm;
+    align-items: center;
+    align-content: center;
+    color: gold;
+    
+}
+#steps{
+    margin-left: 2cm;
+    align-items: center;
+    align-content: center;
+    color: gold;
+    
+}
+#p1{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    align-content: center;
+}
+#footerText{
+    display: flex;
+    flex-direction: column;
+    margin-top: 1cm;
+}
